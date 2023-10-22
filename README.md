@@ -1,1 +1,1 @@
-https://github.com/Nongentis/1sprint
+https://github.com/Nongentis/1sprint.git
